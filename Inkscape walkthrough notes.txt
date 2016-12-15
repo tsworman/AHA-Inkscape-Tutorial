@@ -1,0 +1,63 @@
+Inkscape!
+
+Vector art - nodes and paths between them
+
+Closed shapes - Fill
+Paths/Lines - Stroke
+Handles let you shape a path and form the curve between nodes.
+
+
+Most we'll do involves drawing (Pen tool) striaght lines and bezier curves (Shift+F6)
+
+Draw an open shape and now click on the edit node tool. Notice how we can modify each point?
+
+Shift click selects multiple nodes.
+Ctrl+Alt+click to add more nodes.
+Close our open end shape by joining selected nodes.
+Undo that
+Join the shape by adding a segment.
+
+
+Change node types
+- Corner
+- Smooth
+- Symetric
+- Auto Smooth
+- Make segments lines.
+
+Lines and Curves are an object. 
+Shapes and objects can be converted to a path. Lose ability to round corners/change node type or edit text.
+
+Create a star and use the node tool. 
+Convert the object start to a path and use the node tool.
+We can also convert lines or strokes to paths and give use the ability to add fill.
+
+Paths allow us to do boolean operations on shapes. Let's create two shapes and experiment.
+Square and circle. See what happens when we raise and lower shapes and apply the same thing.
+
+
+Align and distribute tools (ctrl+c/cntrl+v to paste and get a lot of objects.)
+Double click something to get rotation
+
+
+Test tool and put on path!
+
+
+Guides (with snap to guides on)
+
+Create line
+Create points snapping to guides
+Center on verticle axis.
+Move center to bottom center
+Ctrl+D to dup
+rotate and repeat.
+Select them all, group then path combine to get one object. We could laser engrave this.
+
+
+Render
+L-System
+F++F++F
+F=F-F++F-F
+both angles to 60 and render.
+Koch Snowflake
+See: http://people.cornellcollege.edu/dsherman/inkscape-fractal.html
